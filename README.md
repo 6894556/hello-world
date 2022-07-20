@@ -8,4 +8,4 @@ My name is 6894556.
 4. Opened a pull request.
 5. Merged my pull request.
 
-This commit was made using [Hello World] (https://docs.github.com/en/get-started/quickstart/hello-world).
+This commit was made using [Hello World](https://docs.github.com/en/get-started/quickstart/hello-world).
